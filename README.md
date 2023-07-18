@@ -1,3 +1,3 @@
 # Telco_Churn_Prediction
 
-![MasterHead](https://www.analyticsvidhya.com/blog/2022/01/churn-analysis-of-a-telecom-company/)
+![MasterHead](https://editor.analyticsvidhya.com/uploads/94357telecom%20churn.png)
